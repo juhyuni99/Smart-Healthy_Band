@@ -1,7 +1,7 @@
 # IoT Smart_Healthy Band & Monitoring System
 
-> 🏡MQTT통신, Node-Red 환경을 이용한 IoT 스마트 홈 제작🏡
-* 프로젝트 기간 : 2022.05 ~ 2022.06
+> 🖥️MQTT 통신, Web을 이용한 IoT Healthy_band & Monitoring System🖥️
+* 프로젝트 기간 : 2020.10 ~ 2020.12
 
 * 기획 의도 : 주택에 거주하는 1인 가구를 대상으로 보다 편리하고 안전하게 생활할 수 있도록 다양한 기능을 갖춘 스마트 홈을 제작함. 자동제어, 관리 시스템, 편의 시스템에 초점을 맞춤.
 
