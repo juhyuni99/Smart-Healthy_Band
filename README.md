@@ -22,20 +22,19 @@
  * 체온, 미세먼지 평균값 -> 사용자는 모니터링 시스템을 통해 자신의 건강 상태와 외부 환경 정보를 실시간으로 확인할 수 있습니다
  
 ## 🔨사용 보드
- * Raspberry pi3 : 마이크 제어, 스피커 제어, MQTT 통신 서버 제어, Node-Red
- * Esp8266 : MQTT 통신, Neopixel
+ * Esp8266
 
 ## ⚡사용 기술
- * Docker : MQTT 서버 구축
- * Google Assistant : 음성 인식
- * Bluetooth : Bluetooth 스피커 연결
+ * Docker : MQTT, Influxdb, Grafana 서버 제작
+ * HTTP : Web 통신 프로토콜
+ * WIFI : 센서 원격 제어
 
 ## 📝사용언어
- * Python
- * C++
+ * HTML
+ * C : MQTT 통신, HTTP 통신, 센서 제어
 
 ## 🔆개발환경
- * Raspbian
+ * Linux(AWS EC2)
  * Visual Studio Code
  
 ## 💡기능
