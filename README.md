@@ -8,15 +8,14 @@
 * 이에 여러 센서가 장착된 mini IoT healthy band를 통해 자신의 건강과 외부환경을 확인할 수 있도록 제작하였습니다.
 
 ## 📚얻은 역량
- * MQTT, Node-Red 활용 능력
- * Linux 환경에서의 프로그래밍 능력
- * IBM Cloud 활용 능력
- * Raspberry pi 활용 능력
- * Python virtual environment 활용 능력
- * Docker Container 활용
+ * AWS EC2 (Linux) 활용 능력
+ * Web과 board 연동 능력
+ * Docker Container에 대한 이해와 활용
+ * MQTT, InfluxDB, Grafana에 대한 이해
+ * Web에 대한 이해 (HTML, HTTP - GET, POST)
+ * Config mode에 대한 이해
  * Google Assistant 활용
  * Cloud Server, Edge Server 에 대한 이해와 활용
- * 팀을 이끌어가는 능력
  * 팀원과의 소통을 통한 협업 능력
 
 ## 기대효과
