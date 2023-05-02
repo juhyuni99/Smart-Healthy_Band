@@ -38,7 +38,7 @@
  * Visual Studio Code
  
 ## 💡기능
-* 기능 : 만보기, 기상청 날씨정보 실시간 DATA 출력
+* 기능 : 만보기, 기상청 날씨정보 실시간 DATA 출력, 체온 측정, 미세먼지 측정
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/102004234/232667637-f064386f-93fd-4854-a356-f93458b0af86.png">
 
 
