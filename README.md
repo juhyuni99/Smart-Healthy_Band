@@ -38,7 +38,7 @@
  * Visual Studio Code
  
 ## 💡기능
-* 기능 : 미세먼지 알라미, 뮤직 셀렉터, 스마트 가로등, 침입자 감지 메시지, 홈 관리 시스템, 미니 IoT Controler
+* 기능 : 만보기, 기상청 날씨정보 실시간 DATA 출력
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/102004234/232667637-f064386f-93fd-4854-a356-f93458b0af86.png">
 
 
